@@ -11,7 +11,7 @@ Higher Education / Career Development / AI-Powered Information Retrieval
 3. Problem Statement
 
 University students need to understand internship requirements, application procedures, eligibility criteria, required documents, and reporting processes. However, this information may be published across different university and faculty webpages, guidelines, and downloadable documents. Students may need to consult multiple sources to find the information relevant to their faculty.
-
+ 
 The Internship Information Assistant proposes a document-grounded AI question-answering system that helps students retrieve internship information from selected official university sources. The system will use Retrieval-Augmented Generation (RAG) to retrieve relevant information before generating an answer. Each answer should include its supporting source so that students can verify the information independently.
 
 The proposed system is intended to support information retrieval, not replace official university staff or make internship placement decisions.
