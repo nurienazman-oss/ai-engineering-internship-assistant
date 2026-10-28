@@ -20,9 +20,9 @@ University undergraduate students seeking information about internship or indust
 
 Initial Data Sources
 
-* UTM Faculty of Electrical Engineering: [https\://fke.utm.my/li/](https://fke.utm.my/li/)  
-* UTM Faculty of Management: [https\://management.utm.my/industrial-training/](https://management.utm.my/industrial-training/)  
-* UTM Faculty of Chemical and Energy Engineering: [https\://fkt.utm.my/download/](https://fkt.utm.my/download/)
+* Faculty of Artificial Intelligence (FAI)  
+* Razak Faculty of Technology and Informatics 
+* Malaysia-Japan International Institute of Technology 
 
 The source collection is preliminary. Documents will be checked for relevance, version, and permitted use before implementation.
 
